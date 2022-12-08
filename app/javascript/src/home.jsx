@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Layout from "./navbar";
 
 import './home.scss';
 
@@ -16,8 +15,7 @@ class Home extends React.Component {
   render() {
     return (
       <div className="home">
-        <Layout />
-        <h1>Home</h1>
+        <h1>Hello World!</h1>
       </div>
     );
   }
