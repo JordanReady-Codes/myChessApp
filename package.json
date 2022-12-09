@@ -2,7 +2,7 @@
   "name": "my-chess-app",
   "private": true,
   "scripts": {
-    "start": "node server.js"
+    "start": "node application.js"
   },
   "dependencies": {
     "@babel/preset-react": "^7.18.6",
